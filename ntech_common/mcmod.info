@@ -1,0 +1,18 @@
+[
+{
+	"modid" : "NTech",
+	"name" : "NTech",
+	"version" : "0.0.1",
+	"credits" : "Thanks to norway240 for this epic mod o' coolness",
+	"authors":[
+		"norway240"
+	],
+	"description" : "Not just another Tech mod.",
+	"url" : "http://norway240.com/games/mc/mods/ntech",
+	"updateUrl" : "",
+	"logoFile" : "",
+	"parent" : "",
+	"screenshots": [
+	]
+}
+]
